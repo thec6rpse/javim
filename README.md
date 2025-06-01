@@ -1,4 +1,4 @@
-# Javim
+ # Javim
 To understand the difference between these two different files you have to install the latest released version of java and JDK (Java Development Kit). 
 
 When you create your java program using
@@ -17,4 +17,4 @@ And then type ```java Example``` to run it.
 !> [!IMPORTANT]
 > Your public class has to match with the Method name.
 !![Syntax of main() Method](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
-![The result of an Arithmetic Operation](https://i.imgur.com/vzLRt8k.png) 
+![The result of an Arithmetic Operation](https://i.imgur.com/vzLRt8k.png)
