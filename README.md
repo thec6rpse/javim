@@ -14,8 +14,6 @@ And then type ```java Example``` to run it.
 [!IMPORTANT]
 > Your public class needs to match program's name i.e.
 `public class Example`
-```
-```
 
 ## What you should see:
 ![The result of an Arithmetic Operation](https://i.imgur.com/vzLRt8k.png)
