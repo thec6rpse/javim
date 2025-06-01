@@ -14,4 +14,5 @@ And then type ```java Example``` to run it.
 [!IMPORTANT]
 > Your public class has to match with the Method name.
 !![Syntax of main() Method](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
+## What you should see:
 ![The result of an Arithmetic Operation](https://i.imgur.com/vzLRt8k.png)
