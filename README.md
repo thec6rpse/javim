@@ -12,7 +12,10 @@ Type ```javac Example.java``` to compile your java program.
 And then type ```java Example``` to run it.
 
 [!IMPORTANT]
-> Your public class has to match with the Method name.
-!![Syntax of main() Method](https://media.geeksforgeeks.org/wp-content/uploads/20220105123954/Group2-660x330.jpg)
+> Your public class needs to match program's name i.e.
+`public class Example`
+```
+```
+
 ## What you should see:
 ![The result of an Arithmetic Operation](https://i.imgur.com/vzLRt8k.png)
